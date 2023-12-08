@@ -52,3 +52,9 @@
      - Function
      - Array
      - Object
+
+#### 6. Hoisting
+1. Hoisting 
+    - 모든 변수 선언문이 코드의 최상단으로 이동되는 것처럼 느껴지는 현상
+    - var 경우 방지할 수 없다.
+    
