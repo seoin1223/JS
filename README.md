@@ -104,4 +104,23 @@
 
 
 
-#### 8. Memory
+#### 8. swich & IF
+- If문 
+  ```
+  if (조건식) { 
+    출력식 
+  }else if( 조건식 ){
+    출력식
+  }else{
+    출력식
+  }
+  ```
+
+- Switch 문 
+  ```
+  switch(조건문){
+    case :
+        break
+    default :
+  }
+  ```
