@@ -1,4 +1,4 @@
-# JS
+# JavaScript 
 
 ## 목록
 1. [기본기](#1-consolelog)
@@ -101,3 +101,7 @@
 
 9. null 연산자
    - 변수 ?? value : 변수가 null 또는 undifined의 경우 value 할당
+
+
+
+#### 8. Memory
